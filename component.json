@@ -2,7 +2,7 @@
   "name": "chainjs",
   "repo": "zack-lin/chainjs",
   "description": "chainjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": ["chainjs"],
   "scripts": ["index.js"],
   "dependencies": {},

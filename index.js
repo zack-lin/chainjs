@@ -1,4 +1,4 @@
-var handlers = {}, createChain, add;
+var handlers = {}, createChain, add, chainjs = {};
 
 createChain = function (context, stack, lastMethod) {
 
