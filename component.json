@@ -1,0 +1,13 @@
+{
+  "name": "chainjs",
+  "repo": "zack-lin/chainjs",
+  "description": "chainjs",
+  "version": "0.1.0",
+  "keywords": ["chainjs"],
+  "scripts": ["index.js"],
+  "dependencies": {},
+  "remotes": [
+    "https://github.com/zack-lin/chainjs"
+  ],
+  "license": "MIT"
+}
